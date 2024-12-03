@@ -1,0 +1,19 @@
+---
+title: "Author"
+about: 
+  id: hero-heading
+  template: trestles
+  image-shape: rectangle
+  links: 
+    - icon: envelope
+      text: E-mail
+      href: rsaju@student.ubc.ca
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```
